@@ -1,0 +1,53 @@
+
+Image file: "images\coin6.jpg".
+
+Detected coins information:
+1) x = 128, y = 184, radius = 19.
+2) x = 172, y = 186, radius = 19.
+3) x = 170, y = 142, radius = 19.
+4) x = 210, y = 140, radius = 18.
+5) x = 126, y = 142, radius = 19.
+6) x = 130, y = 230, radius = 19.
+7) x = 86, y = 184, radius = 20.
+8) x = 222, y = 102, radius = 19.
+9) x = 86, y = 30, radius = 16.
+10) x = 86, y = 232, radius = 17.
+11) x = 244, y = 30, radius = 16.
+12) x = 88, y = 278, radius = 22.
+13) x = 126, y = 30, radius = 16.
+14) x = 44, y = 184, radius = 19.
+15) x = 292, y = 140, radius = 18.
+16) x = 218, y = 66, radius = 17.
+17) x = 148, y = 64, radius = 16.
+18) x = 182, y = 62, radius = 17.
+19) x = 164, y = 30, radius = 17.
+20) x = 252, y = 140, radius = 19.
+21) x = 86, y = 142, radius = 19.
+22) x = 150, y = 104, radius = 17.
+23) x = 136, y = 278, radius = 19.
+24) x = 80, y = 66, radius = 14.
+25) x = 116, y = 102, radius = 15.
+26) x = 204, y = 28, radius = 18.
+27) x = 80, y = 104, radius = 16.
+28) x = 286, y = 32, radius = 19.
+29) x = 114, y = 64, radius = 15.
+30) x = 40, y = 282, radius = 20.
+31) x = 256, y = 66, radius = 16.
+32) x = 186, y = 102, radius = 15.
+33) x = 42, y = 230, radius = 19.
+34) x = 48, y = 30, radius = 17.
+35) x = 44, y = 102, radius = 16.
+36) x = 292, y = 68, radius = 16.
+37) x = 44, y = 144, radius = 18.
+38) x = 46, y = 66, radius = 15.
+
+Total number of detected coins: 38.
+
+True Positives: 37.
+False Positives: 1.
+False Negatives: 1.
+
+Precision: 0.973684.
+Recall: 0.973684.
+
+F1-score: 0.973684.

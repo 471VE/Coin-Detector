@@ -1,0 +1,28 @@
+
+Image file: "images\coin7.jpg".
+
+Detected coins information:
+1) x = 195, y = 207, radius = 44.
+2) x = 208, y = 80, radius = 34.
+3) x = 276, y = 138, radius = 38.
+4) x = 94, y = 368, radius = 30.
+5) x = 192, y = 364, radius = 28.
+6) x = 118, y = 126, radius = 44.
+7) x = 228, y = 302, radius = 23.
+8) x = 296, y = 240, radius = 35.
+9) x = 354, y = 186, radius = 31.
+10) x = 292, y = 350, radius = 33.
+11) x = 98, y = 216, radius = 26.
+12) x = 368, y = 276, radius = 30.
+13) x = 154, y = 292, radius = 21.
+
+Total number of detected coins: 13.
+
+True Positives: 13.
+False Positives: 0.
+False Negatives: 1.
+
+Precision: 1.
+Recall: 0.928571.
+
+F1-score: 0.962963.

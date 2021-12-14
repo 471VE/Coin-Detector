@@ -1,0 +1,32 @@
+
+Image file: "images\coin10.jpg".
+
+Detected coins information:
+1) x = 434, y = 460, radius = 82.
+2) x = 266, y = 459, radius = 80.
+3) x = 317, y = 205, radius = 40.
+4) x = 448, y = 314, radius = 61.
+5) x = 124, y = 98, radius = 64.
+6) x = 89, y = 461, radius = 75.
+7) x = 102, y = 214, radius = 48.
+8) x = 424, y = 204, radius = 48.
+9) x = 590, y = 288, radius = 84.
+10) x = 96, y = 315, radius = 44.
+11) x = 208, y = 210, radius = 39.
+12) x = 192, y = 310, radius = 41.
+13) x = 606, y = 458, radius = 81.
+14) x = 552, y = 96, radius = 82.
+15) x = 307, y = 309, radius = 58.
+16) x = 403, y = 86, radius = 45.
+17) x = 272, y = 98, radius = 44.
+
+Total number of detected coins: 17.
+
+True Positives: 16.
+False Positives: 1.
+False Negatives: 1.
+
+Precision: 0.941176.
+Recall: 0.941176.
+
+F1-score: 0.941176.

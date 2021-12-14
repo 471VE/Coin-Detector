@@ -1,0 +1,35 @@
+
+Image file: "images\coin8.jpg".
+
+Detected coins information:
+1) x = 616, y = 480, radius = 66.
+2) x = 210, y = 82, radius = 71.
+3) x = 492, y = 350, radius = 64.
+4) x = 230, y = 354, radius = 62.
+5) x = 608, y = 100, radius = 53.
+6) x = 362, y = 484, radius = 58.
+7) x = 350, y = 214, radius = 54.
+8) x = 104, y = 486, radius = 62.
+9) x = 350, y = 90, radius = 58.
+10) x = 609, y = 342, radius = 51.
+11) x = 237, y = 491, radius = 54.
+12) x = 490, y = 490, radius = 51.
+13) x = 480, y = 94, radius = 65.
+14) x = 482, y = 218, radius = 49.
+15) x = 96, y = 210, radius = 67.
+16) x = 612, y = 218, radius = 66.
+17) x = 224, y = 214, radius = 57.
+18) x = 362, y = 353, radius = 59.
+19) x = 87, y = 90, radius = 33.
+20) x = 93, y = 343, radius = 57.
+
+Total number of detected coins: 20.
+
+True Positives: 19.
+False Positives: 1.
+False Negatives: 1.
+
+Precision: 0.95.
+Recall: 0.95.
+
+F1-score: 0.95.

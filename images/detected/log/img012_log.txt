@@ -1,0 +1,20 @@
+
+Image file: "images\img012.jpg".
+
+Detected coins information:
+1) x = 460, y = 262, radius = 125.
+2) x = 144, y = 138, radius = 124.
+3) x = 452, y = 425, radius = 129.
+4) x = 328, y = 192, radius = 120.
+5) x = 266, y = 376, radius = 91.
+
+Total number of detected coins: 5.
+
+True Positives: 4.
+False Positives: 1.
+False Negatives: 2.
+
+Precision: 0.8.
+Recall: 0.666667.
+
+F1-score: 0.727273.

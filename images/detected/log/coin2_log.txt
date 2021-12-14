@@ -1,0 +1,30 @@
+
+Image file: "images\coin2.jpg".
+
+Detected coins information:
+1) x = 314, y = 326, radius = 48.
+2) x = 64, y = 310, radius = 40.
+3) x = 64, y = 148, radius = 34.
+4) x = 84, y = 66, radius = 41.
+5) x = 246, y = 166, radius = 38.
+6) x = 220, y = 312, radius = 36.
+7) x = 332, y = 240, radius = 34.
+8) x = 258, y = 80, radius = 40.
+9) x = 340, y = 84, radius = 36.
+10) x = 248, y = 238, radius = 30.
+11) x = 334, y = 162, radius = 34.
+12) x = 164, y = 74, radius = 37.
+13) x = 148, y = 310, radius = 30.
+14) x = 66, y = 226, radius = 37.
+15) x = 160, y = 146, radius = 33.
+
+Total number of detected coins: 15.
+
+True Positives: 15.
+False Positives: 0.
+False Negatives: 1.
+
+Precision: 1.
+Recall: 0.9375.
+
+F1-score: 0.967742.
